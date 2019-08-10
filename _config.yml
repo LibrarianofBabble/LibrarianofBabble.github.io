@@ -25,7 +25,7 @@ twitter_username: of_babble
 # Build settings
 markdown: kramdown
 # theme: minima
-theme: jekyll-theme-leap-day
+theme: leap-day
 plugins:
   - jekyll-feed
 defaults:
