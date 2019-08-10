@@ -19,13 +19,12 @@ description: >- # this means to ignore newlines until "baseurl:"
    Welcome to the Keyforge blog where I write about everything and anything in
    this amazing game by Fantasy Flight Games!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://libraryofbabble.oobik.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: of_babble
 
 # Build settings
 markdown: kramdown
 theme: minima
-
 plugins:
   - jekyll-feed
 defaults:
