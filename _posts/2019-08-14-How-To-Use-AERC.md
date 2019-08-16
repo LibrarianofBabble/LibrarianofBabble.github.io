@@ -1,6 +1,6 @@
-https://keyforge-compendium.com/sets/2-aoa/cards/231-doorstep-to-heaven---
+---
 layout: post
-title:  "How to use AERC"
+title:  "Understanding Keyforge: How to use AERC"
 date:   2019-08-14 06:34:00 -0700
 categories: Keyforge analysis
 ---
