@@ -19,14 +19,14 @@ AERC does a good job of getting a relative benchmark strength for your deck, but
 
 The problem with AERC lies in the fact that someone took the time to log each value, adding the inherent bias of the creator. In Keyforge it is very hard to create a power measurement for cards because each deck is so unique. This means that in one deck a [Miasma](https://keyforge-compendium.com/sets/2-aoa/cards/274-miasma) may be just a raw aember with some delay potential, but in another deck with 2x [Doorstep to Heaven](https://keyforge-compendium.com/sets/2-aoa/cards/231-doorstep-to-heaven) it may be worth much more in terms of setting up aember control.
 
-![This deck does have Miasma but it's nowhere to be found on the aember control section of the AERC breakdown](/Images/DecksofKeyforgeSAS+AERC2.jpg)
+![This deck does have Miasma but it's nowhere to be found on the aember control section of the AERC breakdown](/Images/AERCart2.png)
 This deck does have [Miasma](https://keyforge-compendium.com/sets/2-aoa/cards/274-miasma) but it's nowhere to be found on the aember control section of the AERC breakdown, even though it can set up extremely strong aember control turns with [Too Much to Protect](https://keyforge-compendium.com/sets/2-aoa/cards/298-too-much-to-protect)
 
 Another factor that makes AERC hard to measure is that there is never a meta where everyone is playing with exactly the same deck. Almost every single card in the game has some niche use, so in some matchups your [Take that, Smartypants](https://keyforge-compendium.com/sets/2-aoa/cards/50-take-that-smartypants) will be worth simply an aember and in other matchups it will be gamebreaking. Unless FFG seriously messes up, targeted hate cards like [Take that, Smartypants](https://keyforge-compendium.com/sets/2-aoa/cards/50-take-that-smartypants) will be very hit or miss, polarizing the ratings on the card and the AERC of the deck.
 
 Let's take a look at **B. Holt, Scudiera di Lucebrillante**, one of the top rated decks listed on decksofkeyforge.com
 
-![B. Holt, Scudiera di Lucebrillante](/Images/DecksofKeforgeSAS+AERC1.jpg)
+![B. Holt, Scudiera di Lucebrillante](/Images/AERCart1.png)
 
 This deck has a completely nuts AERC score of 74, with the bulk the AERC coming from the expected aember, aember control and deck manipulation. A pretty bonkers deck, as far as the AERC goes, but it runs into some of the problems I outlined earlier.
 
