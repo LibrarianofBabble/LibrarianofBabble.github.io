@@ -17,7 +17,7 @@ AERC is the best system for measuring the raw statistics of your deck. There are
 
 AERC does a good job of getting a relative benchmark strength for your deck, but it is by no means an infallible system. Each rating is based off an opinion on a card, which will inevitably lead to inconsistencies and ratings that are impossible to standardize for each deck.
 
-The problem with AERC lies in the fact that someone took the time to log each value, adding the inherent bias of the creator. In Keyforge it is very hard to create a power measurement for cards because each deck is so unique. This means that in one deck a [Miasma](https://keyforge-compendium.com/sets/2-aoa/cards/274-miasma) may be just a raw aember with some delay potential, but in another deck with 2x [Doorstep to Heaven](https://keyforge-compendium.com/sets/2-aoa/cards/231-doorstep-to-heaven) it may be worth much more in terms of setting up aember control.
+The problem with AERC lies in the fact that /u/coraythan on reddit took the time to log each value, adding the inherent bias of the creator. In Keyforge it is very hard to create a power measurement for cards because each deck is so unique. This means that in one deck a [Miasma](https://keyforge-compendium.com/sets/2-aoa/cards/274-miasma) may be just a raw aember with some delay potential, but in another deck with 2x [Doorstep to Heaven](https://keyforge-compendium.com/sets/2-aoa/cards/231-doorstep-to-heaven) it may be worth much more in terms of setting up aember control.
 
 ![This deck does have Miasma but it's nowhere to be found on the aember control section of the AERC breakdown](/Images/AERCart2.png)
 
