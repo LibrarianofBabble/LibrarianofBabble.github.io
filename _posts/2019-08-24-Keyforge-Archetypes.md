@@ -31,7 +31,7 @@ This deck is an example of what a board control deck looks like:
 
 This deck has a whopping 21 creatures, using the brute force of these bodies to muscle the opponent out of the game. In this deck the scaling win conditions are double Commander Remiel, the Succubus and the Tocsin as they all generate a ton of value as the game goes on. Guardian Demon and Cleansing Wave are also great in this deck due to the constant fighting, generating even more value from your board.
 
-### Matchups:
+#### Matchups:
 VS. Aember control
     Aember control decks have a hard time dealing with board control decks because most board control decks don't generate much aember for the aember control decks to steal or destroy. By the time the board control deck has established a proper setup, the deck can reap consistently for 6 or more aember a turn, generating too much aember for the aember control deck to deal with.
 
@@ -53,7 +53,7 @@ Here is an example of a aember control deck:
 
 This deck wins through messing with the opponents aember through Bait and Switch, Charette, and Faygin/Urchin shenanigans, hoping to burst a ton of aember in one turn with a Hunting Witch/Full Moon combo from Untamed, or through the double Carlo Phantom stealing aember over time.
 
-### Matchups:
+#### Matchups:
 VS. Board Control
     Aember control decks have a hard time dealing with board control decks because most board control decks don't generate much aember for the aember control decks to steal or destroy. By the time the board control deck has established a proper setup, the deck can reap consistently for 6 or more aember a turn, generating too much aember for the aember control deck to deal with.
 
@@ -74,7 +74,7 @@ This is an example of a rush deck:
 
 This deck has triple Virtuous Works, probably the strongest card in the game for aember generation. Speed Sigil is perfect for this deck as it helps turn all of your creatures into raw aember pips and this deck can slow your opponent down a little with Blinding Light and Nature's Call while pumping out the massive 30.5 expected aember.
 
-### Matchups:
+#### Matchups:
 VS. Aember Control
     Aember control decks will eat rush decks for breakfast. Aember control decks inherently counter what rush decks are trying to do, especially in a steal heavy aember control deck. The only way a rush deck can beat a aember control deck is if the rush deck has heavy aember control itself or has a combo element and can win through something like a Key Charge.
 
@@ -96,7 +96,7 @@ This is an example of a midrange deck:
 
 This deck has a balance of removal, powerful scaling cards, aember control and aember generation to play a wide variety of playstyles and play to the weaknesses of the opponent. If you can protect the Shaffles this deck will beat the rush decks, and if you reap early and go for aember generation you have a good chance of beating a board control deck.
 
-### Matchups
+#### Matchups
 Midrange decks don't have any distinct matchups because they are a balance of all the archetypes. Each matchup will be based off the individualities of the list, strengths of the player, and the heart of the cards.
 
 ## Tempo
@@ -108,7 +108,7 @@ This is my favorite tempo deck:
 
 The deck can cycle quickly with the Yurk cards, can mess with the opponent through double Tezmal and the double Zysysyx Shockworm, and after reaping in the early game can win through the 19 expected aember.
 
-### Matchups
+#### Matchups
 VS. Tempo
     Another skill based matchup. Tempo players absolutely must establish board early and fight to keep board control, hoping to force the aember control player to call houses at innoportune times to steal or remove aember. Tempo decks can take this matchup down but aember control is favored here.
 
