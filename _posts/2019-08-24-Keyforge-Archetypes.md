@@ -33,15 +33,19 @@ This deck has a whopping 21 creatures, using the brute force of these bodies to 
 
 #### Matchups:
 VS. Aember control
+
     Aember control decks have a hard time dealing with board control decks because most board control decks don't generate much aember for the aember control decks to steal or destroy. By the time the board control deck has established a proper setup, the deck can reap consistently for 6 or more aember a turn, generating too much aember for the aember control deck to deal with.
 
 VS. Rush
+
     Rush decks annihilate board control decks because there are so many incidental cards that mess with creatures in Shadows and so many strong boardwipes in other houses. Rush decks are too fast for board control decks to deal with. By the time a board control deck gains a large enough board to start reaping, most rush decks have already won or are halfway to their third key.
 
 VS. Tempo
+
     Tempo decks are usually quite hard to pilot and require the player to know when to switch from more of a rush style to more of a midrange style. A properly piloted tempo deck should be able to wipe the floor with a board control deck if it gets to go first and establish a board before the board control deck, but similar to midrange the matchup does come down to the decks and the players.
 
 VS. Combo
+
     Board control decks will have to race against combo decks and hope that the opponent does not draw the combo before they can establish a huge board. Board control decks will usually beat creature based combo decks but struggle against the more action-oriented combo decks. Like with tempo and midrange though, it does come down to the individual deck and the secondary and tertiary archetypes present.
 
 ## Aember Control
@@ -55,15 +59,19 @@ This deck wins through messing with the opponents aember through Bait and Switch
 
 #### Matchups:
 VS. Board Control
+
     Aember control decks have a hard time dealing with board control decks because most board control decks don't generate much aember for the aember control decks to steal or destroy. By the time the board control deck has established a proper setup, the deck can reap consistently for 6 or more aember a turn, generating too much aember for the aember control deck to deal with.
 
 VS. Rush
+
     Aember control decks will eat rush decks for breakfast. Aember control decks inherently counter what rush decks are trying to do, especially in a steal heavy aember control deck. The only way a rush deck can beat a aember control deck is if the rush deck has heavy aember control itself or has a combo element and can win through something like a Key Charge.
 
 VS. Tempo
+
     Another skill based matchup. Tempo players absolutely must establish board early and fight to keep board control, hoping to force the aember control player to call houses at innoportune times to steal or remove aember. Tempo decks can take this matchup down but aember control is favored here.
 
 VS. Combo
+
     Aember control decks have a hard time playing against combos that forge keys as part of the combo, but don't have as much of an issue with creature based combos. Deck dependent as the combo player must judge when it is safe to go off and the aember control player must judge when they should be afraid of a combo turn, but overall I would bet that combo decks win this matchup more often than not.
 ## Rush
 
@@ -76,15 +84,19 @@ This deck has triple Virtuous Works, probably the strongest card in the game for
 
 #### Matchups:
 VS. Aember Control
+
     Aember control decks will eat rush decks for breakfast. Aember control decks inherently counter what rush decks are trying to do, especially in a steal heavy aember control deck. The only way a rush deck can beat a aember control deck is if the rush deck has heavy aember control itself or has a combo element and can win through something like a Key Charge.
 
 VS. Board Control
+
     Rush decks annihilate board control decks because there are so many incidental cards that mess with creatures in Shadows and so many strong boardwipes in other houses. Rush decks are too fast for board control decks to deal with. By the time a board control deck gains a large enough board to start reaping, most rush decks have already won or are halfway to their third key.
 
 VS. Tempo
+
     Tempo decks will usually beat rush decks because while they are just slightly slower than rush decks, the additional threat of creatures and other strong interactions gives Tempo decks a leg up if they can make the game last an extra turn or two longer.
 
 VS. Combo
+
     Rush decks will usually be able to go faster than combo decks, but there is always a chance for the combo deck to get lucky and draw into the combo. Creature based combos are usually stronger against rush decks because it is easier to maintain board control to fully execute them.
 
 ## Midrange
@@ -110,15 +122,19 @@ The deck can cycle quickly with the Yurk cards, can mess with the opponent throu
 
 #### Matchups
 VS. Tempo
+
     Another skill based matchup. Tempo players absolutely must establish board early and fight to keep board control, hoping to force the aember control player to call houses at innoportune times to steal or remove aember. Tempo decks can take this matchup down but aember control is favored here.
 
 VS. Board Control
+
     Tempo decks are usually quite hard to pilot and require the player to know when to switch from more of a rush style to more of a midrange style. A properly piloted tempo deck should be able to wipe the floor with a board control deck if it gets to go first and establish a board before the board control deck, but similar to midrange the matchup does come down to the decks and the players.
 
 VS. Tempo
+
     Tempo decks will usually beat rush decks because while they are just slightly slower than rush decks, the additional threat of creatures and other strong interactions gives Tempo decks a leg up if they can make the game last an extra turn or two longer.
 
 VS. Combo
+
     Similar to rush vs. combo, tempo decks are favored because they can go faster than the opponent. Creature based combo decks are usually weaker against tempo decks though because tempo decks can usually play for board somewhat, while more impactful combos are very strong against tempo because there is a higher chance of drawing the combo.
 
 ## Combo
